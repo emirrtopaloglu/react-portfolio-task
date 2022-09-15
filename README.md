@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://i.hizliresim.com/rhd0wl7.png" />
+	<img alt="Project Screenshots" src="https://i.hizliresim.com/5qtx115.jpg" />
 </h1>
 
 <p>Portfolio App is a project developed in React. This is my task in Spechy. I practicing React</p>
