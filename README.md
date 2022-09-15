@@ -14,7 +14,7 @@
 
 Technologies that I used to develop this frontend app
 
-- [ReactJS](https://nodejs.org/en)
+- [ReactJS](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
 ## 👀 Demo
